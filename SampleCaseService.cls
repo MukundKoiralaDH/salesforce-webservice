@@ -70,7 +70,7 @@ global with sharing class SampleCaseService {
     return null;
   }
   /**
-   * @description class represents the Helpcenter response
+   * @description class represents response
    */
   public class SampleCaseServiceResponse {
     public Boolean success;
